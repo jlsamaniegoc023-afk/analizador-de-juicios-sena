@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Juicios SENA",
+  "description": "Aplicación para cargar y analizar reportes de Excel de juicios de evaluación por ficha y aprendiz, verificar disponibilidad para etapa práctica por número de documento y generar resúmenes exportables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
